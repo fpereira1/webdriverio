@@ -1533,6 +1533,9 @@ importers:
       puppeteer-core:
         specifier: ^22.6.1
         version: 22.15.0
+      safe-stable-stringify:
+        specifier: ^2.4.3
+        version: 2.4.3
 
   tests:
     dependencies:
